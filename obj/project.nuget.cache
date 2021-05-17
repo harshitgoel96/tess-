@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldMIB1vmesPG0nQVUHYErZCBU+7+J3CC1xu+NNdmrGodj5RbVugdQ5KpgakmlEUylOjOkA9nBM+thS1S+3QjMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harsh\\source\\repos\\tessauto\\tessauto\\tessauto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harsh\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
